@@ -1,4 +1,4 @@
-# css-animation-play-state
+# css-animation-play-state [![Netlify Status](https://api.netlify.com/api/v1/badges/03f6841d-76e5-475b-b0bd-80e09d78ee63/deploy-status)](https://app.netlify.com/sites/thriving-flan-3f82f9/deploys)
 
 ![Tag](https://img.shields.io/badge/CSS3-f79400?style=flat-square)
 ![Tag](https://img.shields.io/badge/Animations-1b1b1b?style=flat-square)

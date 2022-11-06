@@ -3,11 +3,12 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 1080px;
-  height: 1080px;
+  width: 100%;
+  min-height: 100vh;
+  background-color: transparent;
   padding: 40px;
   background: url(../../assets/images/decoration_bottom.png) no-repeat bottom
-    center / 1080px;
+    center / contain;
 }
 
 .home main {
