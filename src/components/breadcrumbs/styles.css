@@ -1,0 +1,14 @@
+.breadcrumbs {
+}
+
+.breadcrumbs .dot {
+  width: 15px;
+  height: 15px;
+  margin-bottom: 6.8px;
+  clip-path: circle(50%);
+  background-color: var(--color-decoration);
+}
+
+.breadcrumbs .dot.current {
+  background-color: var(--color-primary);
+}
