@@ -10,12 +10,6 @@
     center / 1080px;
 }
 
-.home header {
-  position: absolute;
-  top: 40px;
-  left: 40px;
-}
-
 .home main {
   display: flex;
   flex-flow: row nowrap;
